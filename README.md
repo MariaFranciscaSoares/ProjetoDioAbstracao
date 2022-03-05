@@ -3,7 +3,7 @@
 
 ### class abstract Menu
 - Codificado  métodos para armazenar o  nome (*Name*), ano de lançamenro (*Year*) e gênero do filme (*Genre*).
-- Codificado método (*override string ToString()* para retornar o valor que for dado as var. 
+- Codificado método (*override string ToString()*)para retornar o valor que for dado as var. 
 - Codificado método (*public virtual string Synopsis()*) para exibir sinopse do filme.
 
 ### class *Comedy*, *Horror*, *Romance* e *Thriller* (Herdam class abstract Menu)
