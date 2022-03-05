@@ -1,12 +1,12 @@
 # ProjetoDioAbstracao
 ## Projeto DIO - Criação de um repositório abstraindo um menu com orientação a objetos.
 
-### class abstract Menu
+### Class abstract Menu
 - Codificado  métodos para armazenar o  nome (*Name*), ano de lançamenro (*Year*) e gênero do filme (*Genre*).
 - Codificado método (*override string ToString()*) para retornar o valor que for dado as var. 
 - Codificado método (*public virtual string Synopsis()*) para exibir sinopse do filme.
 
-### class *Comedy*, *Horror*, *Romance* e *Thriller* (Herdam class abstract Menu)
+### Class *Comedy*, *Horror*, *Romance* e *Thriller* (Herdam class abstract Menu)
 - Contém a class para criação do objeto *Name* *Year* e *Genre* no MAIN.
 - Feito o polimorfismo da class *Synopsis( )* para especificar a sinopse de cada filme.
 
