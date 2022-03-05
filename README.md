@@ -16,8 +16,8 @@
  - Codificado um while para o usuario navegar nos generos.
  - Codificado  na tela opções para o usuario - de qual genero assistir com a codificão de uma var int *number* para receber o numero de opção do usuario.
  - Codificado um switch para interação desta opção do usuario - ira ser exibido os objetos *name*, *year*, *genre* e  a *synopis()*.
- - Default do switch exibe mensagem para a solução de um problema caso o usuario digite um valor invalido no *number*.
- - Codificado if para que o usuario entre na opção de navegar entre os generos ou iniciar a sessão do filme - sair do while - somente se o *number* for valido.
+ - Default do switch exibe mensagem para a validação caso o usuario digite um valor invalido no *number*.
+ - Codificado if para validação do usuario entrar na opção de iniciar a sessão do filme - sair do while - somente se o *number* for valido.
  - exibição de mensagem de "Boa sessão" para o usuario.
 **fim**
 
