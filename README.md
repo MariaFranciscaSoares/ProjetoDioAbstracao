@@ -12,14 +12,14 @@
 
 ### Main 
 
- - Codificado o objeto *Name* *Year* e *Genre* para cada class (*Comedy*, *Horror*, *Romance* e *Thriller*) atribuindo um valor cada um.
+ - Codificado a criação do objeto *Name* *Year* e *Genre* para cada class (*Comedy*, *Horror*, *Romance* e *Thriller*) atribuindo um valor cada um.
  - Codificado um while para o usuario navegar nos generos.
  - Codificado  na tela opções para o usuario - de qual genero assistir com a codificão de uma var int *number* para receber o numero de opção do usuario.
- - Codificado um switch para interação desta opção do usuario - ira ser exibido os objetos *name* *year* *genre* e  a *synopis()*.
- - default do switch codifica a solução de um problema caso o usuario digite um valor invalido no *number*.
- - codificado no if interação para o usuario navegar entre os generos ou iniciar a sessão do filme - sair do while.
+ - Codificado um switch para interação desta opção do usuario - ira ser exibido os objetos *name*, *year*, *genre* e  a *synopis()*.
+ - Default do switch exibe mensagem para a solução de um problema caso o usuario digite um valor invalido no *number*.
+ - Codificado if para que o usuario entre na opção de navegar entre os generos ou iniciar a sessão do filme - sair do while - somente se o *number* for valido.
  - exibição de mensagem de "Boa sessão" para o usuario.
-**fim* 
+**fim**
 
 
 
